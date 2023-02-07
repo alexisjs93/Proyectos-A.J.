@@ -64,7 +64,7 @@ _________________________________________________
 
 _________________________________________________
 
-### 4__Canada Flag [🗁](/CanadaFlag)
+### 4__Canadian Flag [🗁](/CanadaFlag)
 ###### *[Python]*
 
 **[EN]** Program that generates a new image with the median RGB values of different similar-sized images. OS, Numpy and PIL libraries are used. The project name comes from the fact that I used flags from the Canadian Provincies and Territories as my working examples.
