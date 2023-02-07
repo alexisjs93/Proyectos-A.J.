@@ -166,7 +166,7 @@ _________________________________________________
 
 **[ES]** Programa que descarga todas las imágenes, renders y dibujos de una página de arquitectura.
 
-<div align="center"><img align="center" src="/ArchDownloader/projects/Batch/87020-China-Resources-Tower-Kohn-Pedersen-Fox-Associates-/1 (Personalizado).jpg" width="60%"></div>
+<div align="center"><img align="center" src="/ArchDownloader/projects/Batch/87020-China-Resources-Tower/1 (Personalizado).jpg" width="60%"></div>
 <div align="center">Imagen de muestra descargada del proyecto con índice 87020</div></br>
 
 
